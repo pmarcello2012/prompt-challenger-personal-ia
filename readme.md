@@ -121,3 +121,52 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+
+# Contexto
+
+Montar um treino ideal, baseado nas três variáveis abaixo com prientação quanto a hidratação:
+
+# Área de Variáveis
+
+{{biotipo}} = endomorfo
+{{periodização}} = 5 dias de treino
+{{tipo}} = Maquinário e Peso Livre
+{{hidratação}} = beber fluídos
+
+# Regras
+
+Regra 1: biotipo
+Identificar qual o tipo informado nas variáveis acima tipo corporal vai ser algum dos tipos abaixo
+
+- Ectomorfo Corpo mais magro, difícil ganhar peso e massa muscular.
+- Mesomorfo Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+- Endomorfo Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+Regra 2: periodização
+Dependendo da quantidade mínima de dias informado na área de variáveis, criar uma das periodização
+de treino abaixo:
+
+ 1 dia Treino Full Body
+ 3 dias Treino ABC
+ 5 dias Treino ABCDE
+
+Regra 3: tipo
+
+- Maquinário Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+- Peso Livre Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+- Cardio     Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+- HIIT         Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+Regra 4:hidratação
+Orientação quanto a hidratação antes, durante e após o treino.
+
+- Antes do treino - beber de 200 ml  a 350 ml de fluídos 15 a 30 minutos antes.
+- Durante o treino - beber de 100 ml  a 250 ml a cada 15 ou 20 minutos.
+- Após o treino - Beber água, suco de grutas natural, smoothies ou iogurtes com alto teor de protéinas.
+
+# Resultado esperado
+
+Com base nos valores informados na área de variáveis e com as guidelines, crie um treino ideal com dicas de hidratação
+para a pessoa que corresponde a combinação desses quatro valores.
+
